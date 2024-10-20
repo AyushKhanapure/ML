@@ -1,0 +1,6 @@
+age,job,marital_status,balance,has_housing_loan,has_personal_loan,contact,day,last_contact_duration,subscribed
+30,admin,married,2000,1,0,cellular,15,600,0
+45,technician,single,1500,0,1,unknown,10,120,0
+40,management,married,3000,1,0,cellular,30,300,1
+28,admin,single,0,1,0,cellular,20,400,1
+50,retired,married,1000,0,0,telephone,13,200,0
